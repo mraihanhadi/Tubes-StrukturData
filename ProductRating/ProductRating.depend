@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732853621 source:d:\c++\tubes\productrating\app.cpp
+	"app.h"
+
+1732854477 d:\c++\tubes\productrating\app.h
+	<iostream>
+
+1732853622 source:d:\c++\tubes\productrating\main.cpp
+	<iostream>
+	"app.h"
+
